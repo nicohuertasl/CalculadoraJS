@@ -1,2 +1,2 @@
 # CalculadoraJS
-Create a  basic calculator in JavaScript, with arithmetic operations.
+Make a program that does the four basic arithmetic operations: addition, subtraction, multiplication, division of two numbers
