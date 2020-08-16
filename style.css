@@ -9,8 +9,38 @@
   display: block;
   margin: auto;
   padding: 20px;
-  background-color:#990D00;
-  width: 200px;
+  background-color:#28394C;
+  width: 345px;
   height: 500px;
+  border-radius: 10px;
+  font-family: Impact, sans-serif;
+
+}
+
+.calculadora td button{
+  display: block;
+  width: 70px;
+  height: 70px;
+  border-radius: 5px;
+  font-size: 25px;
+  font-family: Impact, sans-serif;
+
+
+
+}
+.calculadora td button:hover{
+  background-color: #295261;
+}
+#display{
+  display: block;
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 40px;
+  width:300px;
+  height: 100px;
+  line-height: 100px;
+  background-color: #fff;
+  border-radius: 2px;
+  overflow-y: scroll;
 
 }
