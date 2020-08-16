@@ -1,1 +1,3 @@
-var resultado, num1, num2;
+window.onload = function(){
+  // alert("Hello world");
+}

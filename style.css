@@ -1,0 +1,16 @@
+.center{
+  margin: auto;
+  max-width: 200px;
+
+}
+
+
+.calculadora{
+  display: block;
+  margin: auto;
+  padding: 20px;
+  background-color:#990D00;
+  width: 200px;
+  height: 500px;
+
+}
